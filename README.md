@@ -32,7 +32,7 @@ This project compares a CNN model with a MobileNet transfer learning model for f
 
 ## Tools
 - Python
-- Keras
+- TensorFlow / Keras
 - Google Colab
 
 ## Future Work
